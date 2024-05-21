@@ -1,0 +1,9 @@
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\Config\fbo.c
+..\obj\fbo.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\inc\GUI.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\inc\GUI_ConfDefaults.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\Config\GUIConf.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Type.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\inc\LCD.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\inc\Global.h
+..\obj\fbo.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Version.h

@@ -1,0 +1,9 @@
+..\obj\qr_code.o: ..\HARDWARE\LCD\QR_code.c
+..\obj\qr_code.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\inc\GUI.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\inc\GUI_ConfDefaults.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\Config\GUIConf.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Type.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\inc\LCD.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\inc\Global.h
+..\obj\qr_code.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Version.h

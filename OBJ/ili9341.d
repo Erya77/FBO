@@ -1,0 +1,17 @@
+..\obj\ili9341.o: ..\HARDWARE\LCD\ILI9341.c
+..\obj\ili9341.o: ..\HARDWARE\LCD\ILI9341.h
+..\obj\ili9341.o: ..\SYSTEM\sys\sys.h
+..\obj\ili9341.o: ..\USER\stm32f10x.h
+..\obj\ili9341.o: ..\CORE\core_cm3.h
+..\obj\ili9341.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ili9341.o: ..\USER\system_stm32f10x.h
+..\obj\ili9341.o: ..\USER\stm32f10x_conf.h
+..\obj\ili9341.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\ili9341.o: ..\USER\stm32f10x.h
+..\obj\ili9341.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\ili9341.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\ili9341.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\ili9341.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\ili9341.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\ili9341.o: ..\SYSTEM\delay\delay.h
+..\obj\ili9341.o: ..\HARDWARE\LCD\lcdfont.h
